@@ -1,1 +1,1 @@
---platform linux/arm64 zabbix/zabbix-server-pgsql:6.0-alpine
+kafka-ui
